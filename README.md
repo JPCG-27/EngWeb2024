@@ -5,6 +5,6 @@ Aqui serão armazenados todos os trabalhos da Unidade Curricular de Engenharia W
 
 ## Aluno
 
-- **Nome:** Rui Lopes Martins
-- **ID:** a100643
+- **Nome:** João Paulo Campelo Gomes
+- **ID:** a100747
 - **Foto:** ![Fotografia do aluno](myfoto.jpg)
